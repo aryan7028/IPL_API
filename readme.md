@@ -11,8 +11,6 @@ This project is designed to help beginners understand backend development, REST 
 
 🧍 Retrieve batsman performance data
 
-🔍 Filter data using query parameters
-
 📦 JSON-based API responses
 
 🧠 Beginner-friendly project structure
@@ -27,17 +25,7 @@ Pandas – Data processing & analysis
 
 Git & GitHub
 
-📂 Project Structure
-IPL_API_Using_Flask/
-│
-├── app.py                  # Main Flask application
-├── data/
-│   ├── matches.csv         # IPL matches dataset
-│   └── ball_by_ball.csv    # Ball-by-ball dataset (if used)
-│
-├── requirements.txt        # Python dependencies
-├── .gitignore              # Ignored files and folders
-└── README.md               # Project documentation
+
 
 🔗 API Endpoints (Examples)
 1️⃣ Home
