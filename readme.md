@@ -99,9 +99,6 @@ Step 4️⃣ Run the Flask app
 python app.py
 
 
-Server will start at:
-
-http://127.0.0.1:5000/
 
 📌 Learning Outcomes
 
@@ -115,12 +112,3 @@ Structuring backend projects
 
 API input validation and error handling
 
-🧠 Future Improvements
-
-Add authentication
-
-Deploy API to cloud (Render / Railway)
-
-Add Swagger / API documentation
-
-Add more advanced player analytics
