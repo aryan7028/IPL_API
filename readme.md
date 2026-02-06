@@ -62,7 +62,7 @@ Strike Rate
 
 🧪 How to Run Locally
 Step 1️⃣ Clone the repository
-git clone https://github.com/your-username/ipl-cricket-api.git
+git clone https://github.com/aryan7028/IPL_API.git
 cd ipl-cricket-api
 
 Step 2️⃣ Create virtual environment
